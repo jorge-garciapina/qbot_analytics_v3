@@ -1,0 +1,38 @@
+Breakpoints: 
+https://mui.com/material-ui/customization/breakpoints/
+
+Box: 
+https://mui.com/material-ui/react-box/
+
+Container:
+https://mui.com/material-ui/react-container/
+
+Themed components: 
+https://mui.com/material-ui/customization/theme-components/
+
+Theming: 
+https://mui.com/material-ui/customization/theming/
+
+Sx superset of css: 
+https://mui.com/system/getting-started/usage/#superset-of-css
+
+sx properties: 
+https://mui.com/system/properties/
+
+THEME MADE EASY: 
+https://www.dhiwise.com/post/exploring-mui-theming-options-customization-made-easy
+
+THE COLOR SYSTEM: 
+https://m2.material.io/design/color/the-color-system.html#color-usage-and-palettes
+
+PALETTE: 
+https://mui.com/material-ui/customization/palette/
+
+DEFAULT THEME: 
+https://mui.com/material-ui/customization/default-theme/?expand-path=$.palette
+
+STYLED: This link is very useful to understand styled components----------------------
+https://mui.com/system/styled/
+
+V5 MIGRATION: 
+https://mui.com/material-ui/migration/v5-component-changes/

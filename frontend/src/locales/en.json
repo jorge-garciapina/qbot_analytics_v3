@@ -1,0 +1,90 @@
+{
+  "dateRangeSelector": {
+    "label": "Select a day"
+  },
+  "buttons": {
+    "appointmentTrends": "Trends"
+  },
+  "chartInformation": {
+    "callOutcomesChart": {
+      "handledByAI": "Calls handled by AI",
+      "handledByHuman": "Calls redirected to human",
+      "chartTitle": "Daily Call Handling Overview with AI Handled Percentage",
+      "xAxisName": "Date",
+      "yAxisName": "Number of calls/Percentage",
+      "totals": {
+        "total": "Total Calls",
+        "handledByAI": "Handled by AI",
+        "handledByHuman": "Handled by Human"
+      }
+    },
+    "callOutcomesPie": {
+      "handledByAI": "Calls Handled by AI",
+      "handledByHuman": "Calls redirected to human",
+      "chartTitle": "Handling Overview (Total)"
+    },
+    "transferredPercentage": {
+      "chartTitle": "Daily Call Escalation Rate (Percentage)",
+      "xAxisName": "Date",
+      "yAxisName": "Escalation Rate [%]",
+      "seriesName": "Calls handled by AI",
+      "totals": {
+        "total": "Total Calls",
+        "handledByAI": "Percentage of calls handled by AI",
+        "handledByHuman": "Percentage of calls handled by Human"
+      }
+    },
+    "callDuration": {
+      "chartTitle": "Handling Overview (Total)",
+      "xAxisName": "Date",
+      "yAxisName": "Average Time To Escalate (Seconds)",
+      "handledByAI": "Calls Handled By AI (s)",
+      "handledByHuman": "Calls Handled By Human (s)",
+      "totals": {
+        "total": "Total Calls",
+        "handledByAI": "Average duration calls handled by AI",
+        "handledByHuman": "Average duration calls handled by Human"
+      }
+    },
+    "peakHours": {
+      "chartTitle": "Call Count by Hour and Reason",
+      "xAxisName": "Hour of the Day",
+      "yAxisName": "Number of Calls",
+      "handledByAI": "Calls Handled By AI",
+      "handledByHuman": "Calls Handled By Human",
+      "totals": {
+        "peakHour": "Peak Hour",
+        "peakVolume": "Peak Volume"
+      }
+    },
+    "trendsChart": {
+      "chartTitle": "Monthly Call Statistics (2020-2024)",
+      "xAxisName": "Month",
+      "yAxisName": "Number of Calls",
+      "handledByAI": "Calls Handled By AI",
+      "handledByHuman": "Calls Handled By Human",
+      "totals": {
+        "peakHour": "Peak Hour",
+        "peakVolume": "Peak Volume"
+      }
+    },
+    "buttons": {
+      "trends": "Trends",
+      "details": "Details",
+      "info": "Information"
+    }
+  },
+  "modals": {
+    "appointmentTrendsTitle": "Appointment Trends",
+    "headerText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum nec justo vitae eros volutpat tincidunt. Nullam euismod, mauris a fringilla congue, augue justo varius sapien, et efficitur erat augue nec risus. Integer vel elit nec metus pellentesque tempor. Cras malesuada dolor ac libero tempor, non dictum velit condimentum. Suspendisse potenti. Nam eget risus ut erat laoreet ma lesuada id vel libero."
+  },
+  "errors": {
+    "dateErrors": {
+      "dateFormatIncompatibility": "Date Format not compatible"
+    },
+    "exitErrors": {
+      "invalidDateFormat": "Invalid date format"
+    }
+  },
+  "changeLanguage": "Language"
+}

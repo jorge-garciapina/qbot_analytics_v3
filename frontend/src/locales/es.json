@@ -1,0 +1,92 @@
+{
+  "dateRangeSelector": {
+    "label": "Selectciona un día"
+  },
+  "buttons": {
+    "appointmentTrends": "Tendencias"
+  },
+  "chartInformation": {
+    "callOutcomesChart": {
+      "handledByAI": "Llamadas gestionadas por IA",
+      "handledByHuman": "Llamadas redirigidas a un humano",
+      "chartTitle": "Resumen diario de gestión de llamadas con porcentaje de IA",
+      "xAxisName": "Fecha",
+      "yAxisName": "Número de llamadas/Porcentaje",
+      "totals": {
+        "total": "Total de llamadas",
+        "handledByAI": "Gestionadas por IA",
+        "handledByHuman": "Gestionadas por humanos"
+      }
+    },
+    "callOutcomesPie": {
+      "handledByAI": "Llamadas gestionadas por IA",
+      "handledByHuman": "Llamadas redirigidas a un humano",
+      "chartTitle": "Resumen de gestión (Total)"
+    },
+    "transferredPercentage": {
+      "chartTitle": "Tasa diaria de escalación de llamadas (Porcentaje)",
+      "xAxisName": "Fecha",
+      "yAxisName": "Tasa de escalación [%]",
+      "seriesName": "Llamadas gestionadas por IA",
+      "totals": {
+        "total": "Total de llamadas",
+        "handledByAI": "Porcentaje de llamadas gestionadas por IA",
+        "handledByHuman": "Porcentaje de llamadas gestionadas por Humanos"
+      }
+    },
+    "callDuration": {
+      "chartTitle": "Resumen de gestión (Total)",
+      "xAxisName": "Fecha",
+      "yAxisName": "Tiempo medio para escalar (Segundos)",
+      "handledByAI": "Llamadas gestionadas por IA (s)",
+      "handledByHuman": "Llamadas gestionadas por humanos (s)",
+      "totals": {
+        "total": "Total de llamadas",
+        "handledByAI": "Duración promedio de llamadas gestionadas por IA",
+        "handledByHuman": "Duración promedio de llamadas gestionadas por IA"
+      }
+    },
+    "peakHours": {
+      "chartTitle": "Recuento de llamadas por hora y motivo",
+      "xAxisName": "Hora del día",
+      "yAxisName": "Número de llamadas",
+      "handledByAI": "Llamadas gestionadas por IA",
+      "handledByHuman": "Llamadas gestionadas por humanos",
+      "totals": {
+        "peakHour": "Hora con más llamadas",
+        "peakVolume": "Máximo número de llamadas"
+      }
+    },
+    "trendsChart": {
+      "chartTitle": "Estadisticas mensuales (2020-2024)",
+      "xAxisName": "Mes",
+      "yAxisName": "Número de llamadas",
+      "handledByAI": "Calls Handled By AI",
+      "handledByHuman": "Calls Handled By Human",
+      "totals": {
+        "peakHour": "Peak Hour",
+        "peakVolume": "Peak Volume"
+      }
+    },
+    "buttons": {
+      "trends": "Tendencias",
+      "details": "Detalles",
+      "info": "Información"
+    }
+  },
+
+  "modals": {
+    "appointmentTrendsTitle": "Tendencias",
+    "headerText": "español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español español"
+  },
+  "errors": {
+    "dateErrors": {
+      "dateFormatIncompatibility": "Formato de fecha no compatible"
+    },
+    "exitErrors": {
+      "invalidDateFormat": "Formato de fecha inválido"
+    }
+  },
+
+  "changeLanguage": "Idioma"
+}
