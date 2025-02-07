@@ -4,7 +4,8 @@ import {
   CallReason,
   EscalationReasons,
 } from "../dataTypes";
-
+// This file is meant to generate the random dummy data. For the moment, I need the number of days in a month 
+// because of how this code structure, this does not affect the structure of the application.
 const config = {
   years: [2020, 2021, 2022, 2023, 2024],
   months: [
